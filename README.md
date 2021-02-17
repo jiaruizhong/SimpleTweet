@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=''' alt='Video Walkthrough' />
+<img src='https://github.com/jiaruizhong/SimpleTweet/blob/master/walkthrough2.gif' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
